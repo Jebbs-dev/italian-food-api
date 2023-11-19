@@ -1,0 +1,259 @@
+{
+  "italian-foods": [
+    {
+      "id": 0,
+      "name": "Pizza Margherita",
+      "description": "Traditional Italian pizza with tomatoes, mozzarella, basil, and olive oil.",
+      "ingredients": ["Tomatoes", "Mozzarella", "Basil", "Olive oil", "Dough"],
+      "price": 10.49,
+      "category": "meal",
+      "address": "Naples",
+      "image": "https://static01.nyt.com/images/2014/04/09/dining/09JPPIZZA2/09JPPIZZA2-articleLarge-v3.jpg"
+    },
+    {
+      "id": 1,
+      "name": "Risotto alla Milanese",
+      "description": "Creamy saffron-infused rice dish from Milan.",
+      "ingredients": [
+        "Arborio rice",
+        "Saffron",
+        "Butter",
+        "Onion",
+        "Broth",
+        "Parmesan cheese"
+      ],
+      "price": 15.00,
+      "category": "meal",
+      "address": "Milan",
+      "image": "https://images.unsplash.com/photo-1461009683693-342af2f2d6ce?q=80&w=2896&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+    },
+    {
+      "id": 2,
+      "name": "Lasagna",
+      "description": "Layers of pasta, meat sauce, cheese, and béchamel.",
+      "ingredients": [
+        "Pasta",
+        "Ground meat",
+        "Tomatoes",
+        "Cheese",
+        "Béchamel sauce"
+      ],
+      "price": 12.50,
+      "category": "meal",
+      "address": "Campania",
+      "image": "https://images.unsplash.com/photo-1619895092538-128341789043?q=80&w=2940&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+    },
+    {
+      "id": 3,
+      "name": "Tiramisu",
+      "description": "Classic Italian dessert made of layers of coffee-soaked ladyfingers and mascarpone cheese.",
+      "ingredients": [
+        "Ladyfingers",
+        "Coffee",
+        "Mascarpone cheese",
+        "Cocoa powder"
+      ],
+      "price": 8.20,
+      "category": "dessert",
+      "address": "Veneto",
+      "image": "https://images.unsplash.com/photo-1691688334265-7936fb8c49ba?q=80&w=2942&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+    },
+    {
+      "id": 4,
+      "name": "Caprese Salad",
+      "description": "Simple salad with tomatoes, mozzarella, basil, and olive oil.",
+      "ingredients": ["Tomatoes", "Mozzarella", "Basil", "Olive oil"],
+      "price": 9.70,
+      "category": "appetizer",
+      "address": "Capri, Campania",
+      "image": "https://i2.wp.com/www.downshiftology.com/wp-content/uploads/2019/07/Caprese-Salad-main-1.jpg"
+    },
+    {
+      "id": 5,
+      "name": "Pesto Pasta",
+      "description": "Pasta with a sauce made from basil, garlic, pine nuts, Parmesan cheese, and olive oil.",
+      "ingredients": [
+        "Pasta",
+        "Basil",
+        "Garlic",
+        "Pine nuts",
+        "Parmesan cheese",
+        "Olive oil"
+      ],
+      "price": 11.30,
+      "category": "meal",
+      "address": "Genoa",
+      "image": "https://images.pexels.com/photos/8668599/pexels-photo-8668599.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2"
+    },
+    {
+      "id": 6,
+      "name": "Prosciutto e Melone",
+      "description": "Appetizer featuring thinly sliced prosciutto wrapped around sweet melon.",
+      "ingredients": ["Prosciutto", "Melon"],
+      "price": 13.00,
+      "category": "appetizer",
+      "address": "Emilia-Romagna",
+      "image": "https://www.allrecipes.com/thmb/UIOflrw4envgQGqklp_MsrRQ1oM=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/1127027-prosciutto-e-melone-italian-ham-and-melon-Buckwheat-Queen-4x3-1-3c0b55bfef36411cb947ca1f1fea7658.jpg"
+    },
+    {
+      "id": 7,
+      "name": "Gelato",
+      "description": "Italian ice cream, smoother and denser than regular ice cream.",
+      "ingredients": ["Milk", "Sugar", "Flavors (varies)"],
+      "price": 6.50,
+      "category": "dessert",
+      "address": "Florence",
+      "image": "https://images.unsplash.com/photo-1602532769069-0e856a643e7d?q=80&w=2775&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+    },
+    {
+      "id": 8,
+      "name": "Ossobuco",
+      "description": "Milanese specialty dish made with cross-cut veal shanks braised with vegetables, white wine, and broth.",
+      "ingredients": ["Veal shanks", "Vegetables", "White wine", "Broth"],
+      "price": 18.50,
+      "category": "meal",
+      "address": "Lombardy",
+      "image": "https://www.foodnetwork.com/content/dam/images/food/fullset/2008/1/31/0/italiancooking_ossobucco.jpg"
+    },
+    {
+      "id": 9,
+      "name": "Cannoli",
+      "description": "Italian pastry filled with sweet ricotta cheese and often flavored with chocolate or candied fruits.",
+      "ingredients": [
+        "Ricotta cheese",
+        "Pastry shells",
+        "Sugar",
+        "Chocolate/candied fruits"
+      ],
+      "price": 5.00,
+      "category": "dessert",
+      "address": "Sicily",
+      "image": "https://images.pexels.com/photos/7474125/pexels-photo-7474125.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2"
+    },
+
+    {
+      "id": 10,
+      "name": "Ravioli",
+      "description": "Pasta parcels filled with various ingredients like cheese, meat, or vegetables, served with sauce.",
+      "ingredients": ["Pasta", "Filling (cheese, meat, vegetables)", "Sauce"],
+      "price": 14.00,
+      "category": "meal",
+      "address": "Liguria",
+      "image": "https://images.unsplash.com/photo-1560476652-f5bf553eac22?q=80&w=2730&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+    },
+    {
+      "id": 11,
+      "name": "Minestrone Soup",
+      "description": "Hearty vegetable soup with pasta or rice, typical in Italian cuisine.",
+      "ingredients": ["Mixed vegetables", "Pasta/rice", "Broth"],
+      "price": 10.80,
+      "category": "appetizer",
+      "address": "Tuscany",
+      "image": "https://www.jocooks.com/wp-content/uploads/2020/04/minestrone-soup-1-14.jpg"
+    },
+    {
+      "id": 12,
+      "name": "Bruschetta",
+      "description": "Grilled bread rubbed with garlic and topped with tomatoes, olive oil, herbs, and sometimes cheese.",
+      "ingredients": [
+        "Bread",
+        "Tomatoes",
+        "Garlic",
+        "Olive oil",
+        "Herbs",
+        "Cheese (optional)"
+      ],
+      "price": 7.50,
+      "category": "appetizer",
+      "address": "Rome",
+      "image": "https://images.unsplash.com/photo-1558679582-4d81ce75993a?q=80&w=2940&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+    },
+    {
+      "id": 13,
+      "name": "Focaccia",
+      "description": "Italian flatbread seasoned with olive oil and herbs, often topped with vegetables or cheese.",
+      "ingredients": [
+        "Flour",
+        "Olive oil",
+        "Herbs",
+        "Toppings (vegetables, cheese)"
+      ],
+      "price": 9.40,
+      "category": "appetizer",
+      "address": "Liguria",
+      "image": "https://images.unsplash.com/photo-1619450239118-3a0385b360c2?q=80&w=2940&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+    },
+    {
+      "id": 14,
+      "name": "Carbonara",
+      "description": "Pasta dish made with eggs, cheese, pancetta, and black pepper.",
+      "ingredients": [
+        "Pasta",
+        "Eggs",
+        "Pecorino Romano cheese",
+        "Pancetta",
+        "Black pepper"
+      ],
+      "price": 13.60,
+      "category": "meal",
+      "address": "Lazio",
+      "image": "https://img.taste.com.au/86bOXAkG/taste/2016/11/carbonara-sauce-28894-1.jpeg"
+    },
+    {
+      "id": 15,
+      "name": "Polenta",
+      "description": "Cornmeal dish, boiled into a porridge and often served creamy or solidified and sliced.",
+      "ingredients": ["Cornmeal", "Water", "Butter or cheese (optional)"],
+      "price": 8.90,
+      "category": "meal",
+      "address": "Friuli-Venezia Giulia",
+      "image": "https://www.framedcooks.com/wp-content/uploads/2022/08/Polenta-with-sweet-tomato-sauce.jpg"
+    },
+    {
+      "id": 16,
+      "name": "Arancini",
+      "description": "Deep-fried rice balls stuffed with cheese, meat, peas, and sometimes saffron.",
+      "ingredients": ["Rice", "Cheese", "Meat", "Peas", "Saffron (optional)"],
+      "price": 11.10,
+      "category": "appetizer",
+      "address": "Sicily",
+      "image": "https://images.unsplash.com/photo-1690642109209-18176b898182?q=80&w=2940&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+    },
+    {
+      "id": 17,
+      "name": "Zuppa di Pesce",
+      "description": "Italian seafood soup made with various fish and shellfish in a tomato-based broth.",
+      "ingredients": [
+        "Assorted fish",
+        "Shellfish",
+        "Tomatoes",
+        "Herbs",
+        "Broth"
+      ],
+      "price": 20.00,
+      "category": "meal",
+      "address": "Campania",
+      "image": "https://images.fidhouse.com/fidelitynews/wp-content/uploads/sites/6/2017/10/1509114964_9a54d5124d7677c3a280d71bcebbdeed8b16eb11-1509114736.jpg?width=1280&height=720&quality=80"
+    },
+    {
+      "id": 18,
+      "name": "Tortellini",
+      "description": "Ring-shaped pasta stuffed with meat, cheese, or both, often served in broth or with sauce.",
+      "ingredients": ["Pasta", "Filling (meat, cheese)", "Sauce or broth"],
+      "price": 12.70,
+      "category": "meal",
+      "address": "Bologna",
+      "image": "https://www.budgetbytes.com/wp-content/uploads/2023/01/Spinach-Tortellini-Skillet-bowl.jpg"
+    },
+    {
+      "id": 19,
+      "name": "Panna Cotta",
+      "description": "Cream-based dessert set with gelatin and served with fruit sauce.",
+      "ingredients": ["Cream", "Sugar", "Gelatin", "Fruit sauce"],
+      "price": 9.30,
+      "category": "dessert",
+      "address": "Piedmont",
+      "image": "https://images.unsplash.com/photo-1613505411792-208b15f862b0?q=80&w=2940&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+    }
+  ]
+}
